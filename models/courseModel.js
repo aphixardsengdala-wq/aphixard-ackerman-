@@ -1,4 +1,4 @@
-// models/courseModel.js
+// path/courses
 
 const dataCourses = [
     { course_id: "ENG001", course_name: "English" },
